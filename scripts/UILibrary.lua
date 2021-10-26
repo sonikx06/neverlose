@@ -158,7 +158,7 @@ local library = {
         guiname = "NeverLose",
 		title = "NeverLose [Sonik109#4977]",
 		logo = "rbxassetid://4350178803", -- "http://www.roblox.com/asset/?id=6597976562",
-        footer = " ",
+        footer = "Sonik109#4977",
         modal = true,
         font = Enum.Font.SourceSans,
         textsize = 16,
